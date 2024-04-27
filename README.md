@@ -1,1 +1,2 @@
-# Sales-Data-Analysis
+# Sales-Data-Analysis.
+ABC Private Limited, a retail company, wants to gain insight into its customers' purchasing habits, particularly their spending on different product categories. To do this, they have provided a summary of the purchase history of a number of high-volume products from the previous month. This data includes information on the customer demographics, such as age, gender, marital status, city type, and length of stay in their current city, as well as details on the products themselves, including product ID and product category.
